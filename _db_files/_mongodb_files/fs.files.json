@@ -1,0 +1,33 @@
+﻿{
+  "_id" : ObjectId("5b223c60e5e36915953394f6"),
+  "filename" : "Hydrangeas.jpg",
+  "contentType" : "binary/octet-stream",
+  "length" : 595284,
+  "chunkSize" : 261120,
+  "uploadDate" : ISODate("2018-06-14T09:58:56.964Z"),
+  "aliases" : null,
+  "metadata" : null,
+  "md5" : "bdf3bf1da3405725be763540d6601144"
+}
+{
+  "_id" : ObjectId("5c88a293c3c70a26c061416b"),
+  "filename" : "avtar.png",
+  "contentType" : "binary/octet-stream",
+  "length" : 7795,
+  "chunkSize" : 261120,
+  "uploadDate" : ISODate("2019-03-13T06:26:28.034Z"),
+  "aliases" : null,
+  "metadata" : null,
+  "md5" : "f761e5511ac3fce44910f8cfd61e577d"
+}
+{
+  "_id" : ObjectId("5c89b278c578392970e89708"),
+  "filename" : "Chrysanthemum.jpg",
+  "contentType" : "binary/octet-stream",
+  "length" : 879394,
+  "chunkSize" : 261120,
+  "uploadDate" : ISODate("2019-03-14T01:46:38.032Z"),
+  "aliases" : null,
+  "metadata" : null,
+  "md5" : "076e3caed758a1c18c91a0e9cae3368f"
+}

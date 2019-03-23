@@ -1,0 +1,31 @@
+﻿{
+  "_id" : ObjectId("5b2219e7157a5f0e2f10bce2"),
+  "empDate" : ISODate("2018-06-14T07:31:51.469Z"),
+  "name" : "david@exam.com",
+  "age" : 36,
+  "__v" : 0,
+  "mail" : "0"
+}
+{
+  "_id" : ObjectId("5b2219f9157a5f0e2f10bce3"),
+  "empDate" : ISODate("2018-06-14T07:32:09.868Z"),
+  "name" : "mary@exam.com",
+  "age" : 33,
+  "__v" : 0
+}
+{
+  "_id" : ObjectId("5b221a0b157a5f0e2f10bce4"),
+  "empDate" : ISODate("2018-06-14T07:32:27.842Z"),
+  "name" : "zhangsan@exam.com",
+  "age" : 37,
+  "__v" : 0
+}
+{
+  "_id" : ObjectId("5c88a18e8afded3da84db9be"),
+  "name" : "123@exam.com",
+  "age" : 25,
+  "mail" : "123@exam.com",
+  "sex" : "M",
+  "empDate" : ISODate("2016-07-13T16:00:00Z"),
+  "__v" : 0
+}

@@ -1,0 +1,18 @@
+﻿{
+  "_id" : ObjectId("5c88a245c3c70a26c061415a"),
+  "length" : 32144,
+  "chunkSize" : 261120,
+  "uploadDate" : ISODate("2019-03-13T06:25:10.086Z"),
+  "filename" : "python內置函數.png",
+  "md5" : "9d3d4979b54eea5c5f965fed531f5444",
+  "contentType" : "image/png"
+}
+{
+  "_id" : ObjectId("5c88bd435696161fa8909eb7"),
+  "length" : 55829,
+  "chunkSize" : 261120,
+  "uploadDate" : ISODate("2019-03-13T08:20:19.573Z"),
+  "filename" : "pic.zip",
+  "md5" : "e71b9c1dd83c46837ad623ed5ba07971",
+  "contentType" : "application/x-zip-compressed"
+}
